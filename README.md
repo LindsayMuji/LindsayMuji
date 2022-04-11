@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/91750459/162839585-cefa75c3-357e-4c75-bf6d-d0669dd00c4d.png" width="900" height:500px >
+  <img src="https://user-images.githubusercontent.com/91750459/162839585-cefa75c3-357e-4c75-bf6d-d0669dd00c4d.png">
 </div>
 
 <h1 align="center">Hello World <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px">, I'm Lindsay Mujica</h1>
