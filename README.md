@@ -1,4 +1,8 @@
-<h1 align="center">Hello World <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Lindsay Mujica</h1>
+<div align="center">
+  <img src="" width="800">
+</div>
+
+<h1 align="center">Hello World <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px">, I'm Lindsay Mujica</h1>
 
 
 ```js
@@ -10,12 +14,13 @@ const infoAboutMe = {
 ```
 ```js
 let someMore = {
-  hobbies: ['dance', 'listen to music', ]
+  hobbies: ["dance", "listen to music", "enjoy time with my family"],
   languages: ["Spanish", "English"],
   studies: ["Industrial Engineering", "Bootcamp Laboratoria"],
   softSkills: ["Teamwork", "Assertive Communication", "Change Management"]
 }
 ```
+
 
 ## 🚀 Languages and Tools:
 
@@ -41,9 +46,9 @@ let someMore = {
 ## 📲💻Connect with me:
 
 <p align="center">
-<a href = "https://www.linkedin.com/in/lindsay-melissa-mujica-puelles-b4a79361/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" style='width: 40px; height:40px'/></a>
-<a href = "https://www.facebook.com/lindsaymelissa.mujicapuelles/"><img src="https://cdn-icons.flaticon.com/png/128/2626/premium/2626269.png?token=exp=1649708281~hmac=02bb3491ed5f3ecbe3b364cee71d60a2" style='width: 40px; height:40px'/></a>
-<a href = "mailto:lmelissa.mp@gmail.com"><img src="https://cdn-icons-png.flaticon.com/128/5968/5968534.png" style='width: 40px; height:40px'/></a>
+<a href = "https://www.linkedin.com/in/lindsay-melissa-mujica-puelles-b4a79361/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" style='width: 40px; height:40px' alt= "LinkedIn" title="LinkedIn"/></a>
+<a href = "https://www.facebook.com/lindsaymelissa.mujicapuelles/"><img src="https://cdn-icons.flaticon.com/png/128/2626/premium/2626269.png?token=exp=1649708281~hmac=02bb3491ed5f3ecbe3b364cee71d60a2" style='width: 40px; height:40px' alt= "Facebook" title='Facebook'/></a>
+<a href = "mailto:lmelissa.mp@gmail.com"><img src="https://cdn-icons-png.flaticon.com/128/5968/5968534.png" style='width: 40px; height:40px' alt= "Gmail" title='Gmail'/></a>
 </p>
 <!--
 **LindsayMuji/LindsayMuji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
