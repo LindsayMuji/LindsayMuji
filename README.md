@@ -47,7 +47,7 @@ let someMore = {
 
 <p align="center">
 <a href = "https://www.linkedin.com/in/lindsay-melissa-mujica-puelles-b4a79361/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" style='width: 40px; height:40px' alt= "LinkedIn" title="LinkedIn"/></a>
-<a href = "https://www.facebook.com/lindsaymelissa.mujicapuelles/"><img src="https://cdn-icons.flaticon.com/png/128/2626/premium/2626269.png?token=exp=1649708281~hmac=02bb3491ed5f3ecbe3b364cee71d60a2" style='width: 40px; height:40px' alt= "Facebook" title='Facebook'/></a>
+<a href = "https://www.facebook.com/lindsaymelissa.mujicapuelles/"><img src="https://www.flaticon.es/icono-premium/facebook_2626269?term=facebook&page=1&position=13&page=1&position=13&related_id=2626269&origin=search" style='width: 40px; height:40px' alt= "Facebook" title='Facebook'/></a>
 <a href = "mailto:lmelissa.mp@gmail.com"><img src="https://cdn-icons-png.flaticon.com/128/5968/5968534.png" style='width: 40px; height:40px' alt= "Gmail" title='Gmail'/></a>
 </p>
 <!--
