@@ -2,7 +2,7 @@
   <img src="https://user-images.githubusercontent.com/91750459/162839585-cefa75c3-357e-4c75-bf6d-d0669dd00c4d.png">
 </div>
 
-<h1 align="center">Hello World <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px">, I'm Lindsay Mujica</h1>
+<h1 align="center">Hello World <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="5px">, I'm Lindsay Mujica</h1>
 
 
 ```js
@@ -47,7 +47,6 @@ let someMore = {
 
 <p align="center">
 <a href = "https://www.linkedin.com/in/lindsay-melissa-mujica-puelles-b4a79361/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" style='width: 40px; height:40px' alt= "LinkedIn" title="LinkedIn"/></a>
-<a href = "https://www.facebook.com/lindsaymelissa.mujicapuelles/"><img src="https://www.flaticon.es/icono-premium/facebook_2626269?term=facebook&page=1&position=13&page=1&position=13&related_id=2626269&origin=search" style='width: 40px; height:40px' alt= "Facebook" title='Facebook'/></a>
 <a href = "mailto:lmelissa.mp@gmail.com"><img src="https://cdn-icons-png.flaticon.com/128/5968/5968534.png" style='width: 40px; height:40px' alt= "Gmail" title='Gmail'/></a>
 </p>
 <!--
